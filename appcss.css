@@ -1,0 +1,50 @@
+body{
+	background-color: #efefef;
+	font-family: sans-serif;
+
+}
+.contact-box{
+	width: 500px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 #999;
+	margin-top: 10px;
+	left: 34%;
+	position: absolute ;
+	transform: translate(-505, -50%);
+
+}
+.form{
+	margin: 35px;
+	
+
+}
+.input-field{
+	width: 400px;
+	height: 40px;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #777;
+	outline: none;
+
+}
+.btn{
+	border-radius: 20px;
+	color: #fff;
+	margin-top: 18px;
+	padding: 17px;
+	 background: linear-gradient(to right,#a517ba,#5f1782);
+	 margin-bottom: 7px;
+	 font-size: 12px;
+	 border: none;
+}
+.radio-inline{
+	word-spacing: 5px;
+	font-size: 18px;
+	margin: 10px;
+	align-content: space-between;
+
+}
+.radio{
+	background:linear-gradient(to right,#a517ba,#5f1782) ;
+}
